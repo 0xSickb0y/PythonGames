@@ -6,9 +6,9 @@ import datetime
 
 s_time = time.perf_counter()
 
-europe = ['Albania','Andorra','Armenia','Austria','Azerbaijan','Belarus','Belgium','Bosnia And Herzegovina','Bulgaria','Croatia','Cyprus','Czech Republic','Denmark','England','Estonia','Finland','France','Georgia','Germany','Greece','Hungary','Iceland','Ireland','Italy','Latvia','Liechtenstein','Lithuania','Luxembourg','Malta','Moldova','Monaco','Montenegro','Netherlands','North Macedonia','Norway','Poland','Poland','Portugal','Romania','Russia','San Marino','Scotland','Serbia','Slovakia','Slovenia','Spain','Sweden','Switzerland','Ukraine','Wales']
+europe = ['Albania','Andorra','Armenia','Austria','Azerbaijan','Belarus','Belgium','Bosnia And Herzegovina','Bulgaria','Croatia','Cyprus','Czech Republic','Denmark','England','Estonia','Finland','France','Georgia','Germany','Greece','Hungary','Iceland','Ireland','Italy','Latvia','Liechtenstein','Lithuania','Luxembourg','Malta','Moldova','Monaco','Montenegro','Netherlands','North Macedonia','Norway','Poland','Portugal','Romania','Russia','San Marino','Scotland','Serbia','Slovakia','Slovenia','Spain','Sweden','Switzerland','Ukraine','Wales']
 south_america = ['Argentina','Bolivia','Brazil','Chile','Colombia','Ecuador','Falkland Islands','French Guiana','Guyana','Paraguay','Peru','Suriname','Uruguay','Venezuela']
-north_america = ['Bermuda','Canada','Greenland','Saint Pierre and Miquelon','United States']
+north_america = ['Bermuda','Canada','Greenland','Saint Pierre And Miquelon','United States Of America']
 central_america = ['Belize','Costa Rica','El Salvador','Guatemala','Honduras','Nicaragua','Panama']
 oceania = ['Australia','Fiji','Kiribati','Marshall Islands','Micronesia','Nauru','New Zealand','Palau','Papua New Guinea','Samoa','Solomon Islands','Tonga','Tuvalu','Vanuatu','Cook Islands','Niue']
 africa = ["Algeria", "Angola", "Benin", "Botswana", "Burkina Faso", "Burundi", "Cabo Verde", "Cameroon", "Central African Republic", "Chad", "Comoros", "Ivory Coast", "Djibouti", "Democratic Republic of the Congo", "Egypt", "Equatorial Guinea", "Eritrea", "Eswatini", "Ethiopia", "Gabon", "Gambia", "Ghana", "Guinea", "Guinea-Bissau", "Kenya", "Lesotho", "Liberia", "Libya", "Madagascar", "Malawi", "Mali", "Mauritania", "Mauritius", "Morocco", "Mozambique", "Namibia", "Niger", "Nigeria", "Republic of the Congo", "Rwanda", "Sao Tome & Principe", "Senegal", "Seychelles", "Sierra Leone", "Somalia", "South Africa", "South Sudan", "Sudan", "Tanzania", "Togo", "Tunisia", "Uganda", "Zambia", "Zimbabwe"]
@@ -26,7 +26,7 @@ def __banner__():
     /    /  \ |  | |\ |  |  |__) \ /    / __ |  | |__  /__` /__` |__  |__) 
     \__/ \__/ \__/ | \|  |  |  \  |     \__/ \__/ |___ .__/ .__/ |___ |  \ 
                                                                             ''')
-    print(f"\nMade by sickb0y (https://tryhackme.com/p/sickb0y | https://github.com/c0wgirl)\nLast Modified: 28-09-2023 04:11:25\nGlobal Score: {overall_score}\n")
+    print(f"\nMade by sickb0y (https://tryhackme.com/p/sickb0y | https://github.com/c0wgirl)\nLast Modified: 20-10-2023 04:00:25\nGlobal Score: {overall_score}\n")
 
 def __timer__():
 
