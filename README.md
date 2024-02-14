@@ -1,4 +1,4 @@
 # PythonGames
 Simple command line Mini-Games written in Python.
 
-![CGScreenshot](https://github.com/c0wgirl/PythonGames/assets/148525929/1ff8f8bd-8a56-448b-b0ee-d0b79c433fc0)
+![screenshot](https://github.com/0xSickb0y/PythonGames/assets/148525929/92ffa2e5-0354-4c61-b07e-131cb134e44a)
