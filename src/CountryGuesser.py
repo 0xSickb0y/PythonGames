@@ -26,7 +26,7 @@ def __banner__():
     /    /  \ |  | |\ |  |  |__) \ /    / __ |  | |__  /__` /__` |__  |__) 
     \__/ \__/ \__/ | \|  |  |  \  |     \__/ \__/ |___ .__/ .__/ |___ |  \ 
                                                                             ''')
-    print(f"\nMade by sickb0y (https://tryhackme.com/p/sickb0y | https://github.com/c0wgirl)\nLast Modified: 24-10-2023 14:19:00\nGlobal Score: {overall_score}\n")
+    print(f"\nMade by https://github.com/0xSickb0y)\nLast Modified: 13-02-2024 14:57:00\nGlobal Score: {overall_score}\n")
 
 def __timer__():
 
